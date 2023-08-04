@@ -4,3 +4,5 @@ build*
 _builds
 _logs
 .vscode
+.idea
+build
